@@ -1,11 +1,12 @@
 package ws
 
 import (
-	"bitget/constants"
-	"bitget/internal/common"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
 	"strings"
+
+	"github.com/wfunc/bitget/constants"
+	"github.com/wfunc/bitget/internal/common"
+	"github.com/wfunc/bitget/internal/model"
+	"github.com/wfunc/bitget/logging/applogger"
 )
 
 type BitgetWsClient struct {

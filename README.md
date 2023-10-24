@@ -22,9 +22,9 @@ Create an order example
 package test
 
 import (
-  "bitget/internal"
-  "bitget/pkg/client"
-  "bitget/pkg/client/v1"
+  "github.com/wfunc/bitget/internal"
+  "github.com/wfunc/bitget/pkg/client"
+  "github.com/wfunc/bitget/pkg/client/v1"
   "fmt"
   "testing"
 )
@@ -58,8 +58,8 @@ Please find more examples for each supported endpoint in the `test` folder.
 package test
 
 import (
-  "bitget/internal/model"
-  "bitget/pkg/client/ws"
+  "github.com/wfunc/bitget/internal/model"
+  "github.com/wfunc/bitget/pkg/client/ws"
   "fmt"
   "testing"
 )
