@@ -1,4 +1,4 @@
-module bitget
+module github.com/wfunc/bitget
 
 go 1.17
 
