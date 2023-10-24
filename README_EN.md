@@ -1,5 +1,6 @@
 # Bitget Go
 
+
 This is a lightweight library that works as a connector to [Bitget API](https://bitgetlimited.github.io/apidoc/en/mix/)
 
 ## Supported API Endpoints:
